@@ -89,6 +89,8 @@ The datasets includes the following columns:
   - Quantity: The numbers of unit bought/sold
   - Discount: The percentage reduction applied to the product’s original price
 
+Total Data Records is 9994
+
 ## Tabular Overview 
 
 A brief overview of the tabular datasets to be evaluated. the first 5 records are displayed below.
